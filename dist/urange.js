@@ -26,7 +26,7 @@
       key: 'get',
       value: function get() {
         if (this.diap.length === 0) {
-          throw new Error('Range rich to the end');
+          throw new Error('Range riched to the end');
         }
 
         // debugger
